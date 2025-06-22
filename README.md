@@ -1,2 +1,2 @@
-# django-chat-app
-Simple Chat Web App with Django
+# Django Websocket Chat App
+Simple Chat Web App with Django and Websocket
